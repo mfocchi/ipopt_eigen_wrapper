@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<package format="2">
+
+  <name>ipopt_eigen_wrapper</name>
+  <version>0.0.1</version>
+  <description> Package</description>
+
+  <license>BSD-3</license>
+
+  <author email="andrea.delprete@unitn.it">Andrea Del Prete</author>
+  <maintainer email="michele.focchi@unitn.it">Michele Focchi</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
